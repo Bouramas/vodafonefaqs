@@ -118,9 +118,9 @@ function getLanguageLink(lang) {
 
 function loadHeader(lang) {
     if (lang === "en") {
-        updateTextContent("Frequently asked Questions", ".faq-header");
+        updateInnerHTML("Frequently asked Questions", ".faq-header");
     } else {
-        updateTextContent("Συχνές Ερωτήσεις", ".faq-header");
+        updateInnerHTML("Συχνές Ερωτήσεις", ".faq-header");
     }
 }
 

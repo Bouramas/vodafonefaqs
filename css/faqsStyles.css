@@ -5,7 +5,8 @@
 
 @font-face {
     font-family: "vodafone";
-    src: url("fonts/vodafonerg-webfont.woff") format('woff');
+    /*src: url("fonts/vodafonerg-webfont.woff") format('woff');*/
+    src: url("fonts/vodafone_rg-webfont.woff") format('woff');
 }
 
 @font-face {
@@ -98,7 +99,7 @@ body {
   padding: 1.8em 1.5em 1.7em 0.7em;
   margin-left: 120px;
   margin-bottom: 1.2em;
-  font-family: "vodafone-bold";
+  font-family: "vodafone";
   font-size: 1.7em;
   line-height: 94%;
 }
