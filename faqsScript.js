@@ -41,7 +41,7 @@ function makeCorsRequest(lang) {
 
             if (hasToggleBtn === "False") {
                 questionsContainer += "<div class='faq-c'>" +
-                                          "<img class='faq-t faq-img faq-click' src='/imgs/arrow-gry-r.png'></img>" + 
+                                          "<img class='faq-t faq-img faq-click' src='imgs/arrow-gry-r.png'></img>" + 
                                           "<div class='faq-q faq-click'>" + 
                                               questionText + 
                                           "</div>"+
@@ -51,7 +51,7 @@ function makeCorsRequest(lang) {
                                       "</div>";
             } else {
                 questionsContainer += "<div class='faq-c faq-tog'>" + 
-                                          "<img class='faq-t faq-img faq-click' src='/imgs/arrow-gry-r.png'></img>" + 
+                                          "<img class='faq-t faq-img faq-click' src='imgs/arrow-gry-r.png'></img>" + 
                                           "<div class='faq-q faq-click'>" + 
                                               questionText + 
                                           "</div>"+
