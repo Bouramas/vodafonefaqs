@@ -6,7 +6,10 @@
 @font-face {
     font-family: "vodafone";
     /*src: url("fonts/vodafonerg-webfont.woff") format('woff');*/
-    src: url("fonts/vodafone_rg-webfont.woff") format('woff');
+    src: url("fonts/vodafone_rg-webfont.woff") format('woff'),
+         url('fonts/vodafone_rg-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/vodafone_rg-webfont.ttf') format('truetype'),
+         url('fonts/vodafone_rg-webfont.svg#VodafoneRgRegular') format('svg');
 }
 
 @font-face {
