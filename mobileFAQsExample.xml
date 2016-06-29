@@ -1,0 +1,44 @@
+<cms>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>False</hasToggleBtn>
+		<questionGreek>Υπάρχει επιπλέον χρέωση εάν πληρώσω το λογαριασμό μου μέσω της εφαρμογής</questionGreek>
+		<answerGreek>Η πληρωμή του λογαριασμού σου μέσω της εφαρμογής δεν έχει επιπλέον χρεώσεις.​</answerGreek>
+		<questionEnglish>Is there an extra charge for payments through the application?</questionEnglish>
+		<answerEnglish>There is no extra charge for payments through the application.</answerEnglish>
+	</MobileFAQ>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>False</hasToggleBtn>
+		<questionGreek>Έχω κάνει πληρωμή αλλά δεν έχει ενημερωθεί το υπόλοιπο αυτήν τη στιγμή.</questionGreek>
+		<answerGreek>Αν έχεις κάνει πληρωμή μέσω της εφαρμογής δοκίμασε να κάνεις ανανέωση του υπολοίπου αυτή τη στιγμή πατώντας το σύμβολο που βρίσκεται δίπλα στο ποσό. Αν εξακολουθεί να μην ανανεώνεται το ποσό παρακαλούμε κάλεσε στο 13844. Η ενημέρωση υπολοίπου 	εξαρτάται γενικά από τον τρόπο πληρωμής π.χ. αν πλήρωσες μέσω ΕΛΤΑ, η πληρωμή θα εμφανιστεί έως και 4 ημέρες μετά.</answerGreek>
+		<questionEnglish>I have completed a payment successfully but the balance is not yet updated.</questionEnglish>
+		<answerEnglish>If you have successfully completed a payment , try to refresh the balance by pressing the symbol which is located next to the amount. If the amount is still not updated, please call 13844. The updated balance usually depends on the payment method eg if you paid via ELTA, payment will be updated 4 days later.</answerEnglish>
+	</MobileFAQ>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>False</hasToggleBtn>
+		<questionGreek>Πώς μπορώ να ενεργοποιήσω/απενεργοποιήσω το Internet και την αποστολή MMS από το κινητό μου;</questionGreek>
+		<answerGreek>Για να ενεργοποιήσεις τα δεδομένα θα πρέπει από το μενού Ρυθμίσεις του smartphone σου, να κλείσεις τον διακόπτη WiFi κ	αι να ενεργοποιήσεις τον διακόπτη για Δεδομένα Κινητού Δικτύου. Σε περίπτωση που η συσκευή σου δεν είναι Smartphone ή παρόλο που με ενεργοποιημένα τα δεδομένα κινητής τηλεφωνίας, δεν είναι δυνατό να συνδεθείς, θα χρειαστεί να επικοινωνήσεις με τον Τμήμα 	Εξυπηρέτησης Πελατών Vodafone. </answerGreek>
+		<questionEnglish>Will I be charged more in case I pay through the app?</questionEnglish>
+		<answerEnglish>NO!</answerEnglish>
+	</MobileFAQ>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>False</hasToggleBtn>
+		<questionGreek>Αν πληρώσω μέσω του My home account, πότε θα γίνει άρση φραγής</questionGreek>
+		<answerGreek>Αν η πληρωμή σου ολοκληρωθεί με επιτυχία τότε η άρση φραγής θα γίνει εντός 30 λεπτών. Σε περίπτωση που δε γίνει άρση φ		ραγής εντός 30 λεπτών θα πρέπει να μας καλέσεις στην εξυπηρέτηση πελατών στο 13844.​</answerGreek>
+		<questionEnglish>If I pay via My home account, when the barring is removed?</questionEnglish>
+		<answerEnglish>If your payment is successful then the barring will be removed within 30 minutes. If the barring is not been removed within 30 minutes you should call our customer care on 13844.</answerEnglish>
+	</MobileFAQ>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>True</hasToggleBtn>
+		<questionGreek>Σε τι αφορά η ταχύτητα συγχρονισμού</questionGreek>
+		<answerGreek>Ως ταχύτητα συγχρονισμού ορίζουμε την ταχύτητα με την οποία επιτυγχάνεται η σύνδεση του εξοπλισμού σου με το δίκτυο τ	ης Vodafone. Όταν ο εξοπλισμός σου (modem / router) συνδέεται με το internet προσπαθεί πάντα να επιτύχει την υψηλότερη ταχύτητα μετάδοσης, δηλαδή την ονομαστική ταχύτητα επιτυγχάνοντας παράλληλα ένα αποδεκτό επίπεδο ποιότητας που θα εξασφαλίζει τη σταθερότητα της σύνδεσης. Αυτή η διαδικασία ονομάζεται συγχρονισμός και διαρκεί κάποια δευτερόλεπτα. Η ταχύτητα συγχρονισμού είναι πάντα μικρότερη από την ονομαστική ταχύτητα του πακέτου που επέλεξες και εξαρτάται από την ποιότητα του χάλκινου καλωδίου της γραμμής 	σου, την απόσταση σου από το αστικό τηλεφωνικό κέντρο της περιοχής σου κτλ.</answerGreek>
+		<questionEnglish>What is Sync Speed Tes?</questionEnglish>
+		<answerEnglish>The output from the Sync Speed Test is the actual achievable speed from your equipment to the Vodafone network. When your equipment (modem / router) connects to the internet, it always strives to achieve the highest transmission speed, which is the nominal speed. In the meanwhile it achieves an acceptable level of quality that will ensure the stability of the connection. This process is called and lasts a few seconds. The output of the Sync Speed Test is always lower than the nominal speed of the plan you have selected and depends on the quality of the copper cable of your line, your distance from the urban call center of your area etc.</answerEnglish>
+	</MobileFAQ>
+	<MobileFAQ xmlns:mcare="http://www.w3.org/1999/xml">
+		<hasToggleBtn>True</hasToggleBtn>
+		<questionGreek>Πως μπορώ να το ενεργοποιήσω;</questionGreek>
+		<answerGreek>Πάτα το κουπμί.</answerGreek>
+		<questionEnglish>How can I activate the bundle?</questionEnglish>
+		<answerEnglish>Click on the toggle below to activate the bundle.</answerEnglish>
+	</MobileFAQ>
+</cms>
